@@ -1,1 +1,1 @@
-# ionic1-sampleapps
+# ionic_sample
