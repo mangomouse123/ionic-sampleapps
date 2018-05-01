@@ -1,0 +1,16 @@
+page-welcome {
+  #welcome{
+    background: color($colors, wel_col);
+    h1{
+      font-size: 52px;
+      margin-top: 50px;
+    }
+    div{
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    .MarginTop{
+      margin-top: 100px;
+    }
+  }
+}
